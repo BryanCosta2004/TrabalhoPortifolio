@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Veículos",
+        "image": "./assets/fabrica de carro.jpg",
+        "tags": ["HTML", "CSS", "Javascript", "API TMBD"],
+        "link": "https://www.toyota.com.br/mundo-toyota/toyota-tour/nossas-fabricas"
+    },
+    {
+        "name": "Metais",
+        "image": "./assets/metais.jpg",
+        "tags": ["HTML", "CSS", "Javascript", "API TMBD"],
+        "link": "https://www.shammah.com.br/estrutura-metalica-de-fabrica-de-automoveis"
+    },
+    {
+        "name": "Peças",
+        "image": "./assets/peça de carro.jpg",
+        "tags": ["HTML", "CSS", "Javascript", "API TMBD"],
+        "link": "https://www.hipervarejo.com.br/autopecas?paged=1"
+    },    
+    {
+        "name": "Mecanismo",
+        "image": "./assets/mecanismo.jpg",
+        "tags": ["HTML", "CSS", "Javascript", "API TMBD"],
+        "link": "https://br.codycross-group.com/answer-mecanismo-do-carro-entre-o-motor-e-a-caixa-de-cambio/"
+    },
+    {
+        "name": "Molas",
+        "image": "./assets/technology-3198585_1280.jpg",
+        "tags": ["HTML", "CSS", "Javascript", "API TMBD"],
+        "link": "https://www.isomol.com.br/fabricante-de-molas-automotivas"
+    },    
+    {
+        "name": "Pneus",
+        "image": "./assets/pneu.jpg",
+        "tags": ["HTML", "CSS", "Javascript", "API TMBD"],
+        "link": "https://www.pneustore.com.br/categorias/originais-de-fabrica"
+    }
+]
